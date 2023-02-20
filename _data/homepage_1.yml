@@ -1,9 +1,9 @@
 ######################### Hero Area ##############################
 hero_area:
   background_image : "/assets/images/bg/banner-2.png"
-  subtitle: "MY NAME IS Jessica Alba"
-  title : "I am a creative <br>UI/UX Designer <br>from London."
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  subtitle: "Dare Planet Shuttle presenta:"
+  title : "NICA"
+  content : "Neural Image Capture Algorithm"
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : true
@@ -12,15 +12,15 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "Brand Design"
+- title : "3D"
   icon : "ti-ruler-pencil"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
-- title : "Seo & Marketing"
+- title : "VFX"
   icon : "ti-announcement"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
-- title : "Creative Design"
+- title : "Realidad Virtual"
   icon : "ti-palette"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
