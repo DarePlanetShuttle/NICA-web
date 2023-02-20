@@ -37,11 +37,11 @@ main:
 ########## footer menu ###############
 footer:
   - name: Dare Planet Technology
-    url: https://dareplanet.tech
+    url: "https://dareplanet.tech"
   - name: Dare Planet Studio
-    url: https://dps.tv
+    url: "https://dps.tv"
   - name: Dare Planet Shuttle
-    url: https://shuttle.dareplanet.com
+    url: "https://shuttle.dareplanet.com"
 
 ############## Bottom menu ###############
 bottom:
