@@ -1,8 +1,8 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "NICA - Dare Planet Shuttle"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
+email: ""
+phone: "(+34) 91 391 4249"
 address: "C/ Practicante Ignacio Rodríguez, Campus Universitario de Tafira. 35017 - Las Palmas de Gran Canaria"
 author: Dare Planet Shuttle
 description: >- # this means to ignore newlines
@@ -11,7 +11,7 @@ logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
-mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
+#mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
 copyright: "Dare Planet. &copy; 2022 Todos los derechos reservados."
 # page header default image
@@ -29,9 +29,13 @@ cta:
 
 ################## Social site ###############
 social:
+  - name: twitter
+    icon: "ti-twitter"
+    link: "https://twitter.com/DarePlanetTech"
+
   - name: instagram
     icon: "ti-instagram"
-    link: "#"
+    link: "https://www.instagram.com/dareplanettech/"
 
   - name: linkedin
     icon: "ti-linkedin"

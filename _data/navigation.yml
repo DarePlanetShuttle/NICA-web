@@ -36,16 +36,12 @@ main:
 
 ########## footer menu ###############
 footer:
-  - name: Services
-    url: /services.html
-  - name: Portfolio One
-    url: /portfolio-1.html
-  - name: Portfolio Two
-    url: /portfolio-2.html
-  - name: Single Portfolio
-    url: /portfolio-single.html
-  - name: Contact
-    url: /contact.html
+  - name: Dare Planet Technology
+    url: https://dareplanet.tech
+  - name: Dare Planet Studio
+    url: https://dps.tv
+  - name: Dare Planet Shuttle
+    url: https://shuttle.dareplanet.com
 
 ############## Bottom menu ###############
 bottom:
