@@ -3,7 +3,7 @@
 	<img src="{{'/assets/images/bg/footer-bg.png' | relative_url}}" alt="" class="overlay-shape">
 	<div class="container">
 		<div class="row">
-			<div class="col-lg-3 col-md-6">
+			<div class="col-lg-4 col-md-6">
 				<div class="footer-widget  mb-5 mb-lg-0">
 					<h4 class="font-weight-bold text-white mb-3">Siguenos en redes</h4>
 					{{site.footer_content | markdownify}}
@@ -17,18 +17,7 @@
 					</ul>
 				</div>
 			</div>
-
-			<div class="col-lg-3 ml-lg-auto mb-5 mb-lg-0 col-md-6">
-				<div class="footer-widget">
-					<h4 class="text-white mb-3">Dare Planet Corp</h4>
-
-					<ul class="list-unstyled lh-38">
-						{% for menu in site.data.navigation.footer %}
-						<li><a href="{{menu.link | relative_url }}">{{menu.name}}</a></li>
-						{% endfor %}
-					</ul>
-				</div>
-			</div>		
+			
 			<!--div class="col-lg-2 col-md-6">
 				<div class="footer-widget  mb-5 mb-lg-0">
 					<h4 class="text-white mb-3">Services</h4>
@@ -41,7 +30,7 @@
 					</ul>
 				</div>
 			</div-->		
-			<div class="col-lg-3 col-md-6">
+			<div class="col-lg-4 col-md-6">
 				<div class="footer-widget">
 					<h4 class="text-white mb-3">Contacto</h4>
 					<ul class="list-unstyled lh-38">
@@ -50,7 +39,19 @@
 						<li><a href="mailto:{{site.email}}">{{site.email}}</a></li>
 					</ul>
 				</div>
-			</div>		
+			</div>
+			
+			<div class="col-lg-4 mb-5 mb-lg-0 col-md-6">
+				<div class="footer-widget">
+					<h4 class="text-white mb-3">Dare Planet Corp</h4>
+
+					<ul class="list-unstyled lh-38">
+						{% for menu in site.data.navigation.footer %}
+						<li><a href="{{menu.link | relative_url }}">{{menu.name}}</a></li>
+						{% endfor %}
+					</ul>
+				</div>
+			</div>
 		</div>
 	</div>
 
@@ -76,7 +77,7 @@
 		</div>
 		<div class="container border-top py-4">
 			<div class="row align-items-center justify-content-md-between">
-				<div class="col-lg-4 text-center col-12">
+				<div class="text-center col-12">
 					<a href="{{site.baseurl}}">
 						<img src="{{site.logo | relative_url}}" alt="{{site.title}}" class="img-fluid">
 					</a>
