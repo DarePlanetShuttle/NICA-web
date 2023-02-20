@@ -24,47 +24,24 @@ services:
   icon : "ti-eye"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
-
-########################### Testimonial ###########################
-testimonial:
+################## About ###########################
+about:
   enable : true
-  title : "clients feedback"
-  subtitle : "testimonials"
-  bg_image : "/assets/images/bg/testimonial-bg.png"
-  item:
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
-    
-  - name : "Jane Austin"
-    designation : "Designer"
-    image : "/assets/images/team/test-2.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
-    
-  - name : "Liolane hussy"
-    designation : "Developer"
-    image : "/assets/images/team/test-3.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim veniam.quis nos trud exercittion ullam laboris nisi ut aliquip excepteur. sint occaecat cuida tat nonproident sunt in culpa qui officia deserunt mollit anim est laborum. sed ut perspiciatis."
+  subtitle : "Sobre NICA"
+  title : "Neural Image Capture Algorithm"
+  video_thumb : "/assets/images/about/about.jpg"
+  #video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  content : "NUEVA TECNOLOGÍA BASADA EN APRENDIZAJE PROFUNDO PARA LA PRODUCCIÓN DE CONTENIDO AUDIOVISUAL Y EXPERIENCIAS VIRTUALES."
+  button:
+    enable : true
+    label : "Contacto"
+    link : "#"
 
-
-######################## Fun facts ########################
-funfacts:
+###################### Clients ######################
+clients:
   enable : true
-  bg_image : "/assets/images/bg/cta-bg.png"
-  item:
-  - name : "work completed"
-    icon : "ti-briefcase"
-    value : "370"
-    
-  - name : "new projects"
-    icon : "ti-paint-bucket"
-    value : "450"
-    
-  - name : "Happy customers"
-    icon : "ti-heart"
-    value : "5000"
-    
-  - name : "awards win"
-    icon : "ti-cup"
-    value : "37"
+  logos:
+    - "/assets/images/logo.png"
+    - "/assets/images/logo.png"
+    - "/assets/images/logo.png"
+    - "/assets/images/logo.png"
