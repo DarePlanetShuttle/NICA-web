@@ -1,10 +1,10 @@
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
+title: "NICA - Dare Planet Shuttle"
 email: "themefisher@gmail.com"
 phone: "+21 123 456 5523"
-address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
+address: "C/ Practicante Ignacio Rodríguez, Campus Universitario de Tafira. 35017 - Las Palmas de Gran Canaria"
+author: Dare Planet Shuttle
 description: >- # this means to ignore newlines
   Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
 logo: "/assets/images/logo.png"
@@ -13,7 +13,7 @@ logo_icon: "/assets/images/logo-b.png"
 contact_form_action: "#" # works with https://fomrspree.io
 mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
-copyright: "dizer. &copy; 2020 All Right Reserved"
+copyright: "Dare Planet. &copy; 2022 Todos los derechos reservados."
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
@@ -25,25 +25,17 @@ cta:
   bg_image: "/assets/images/bg/cta-bg-2.png"
   button:
     label: "get a quote"
-    link: "contact"
+    link: "contacto"
 
 ################## Social site ###############
 social:
-  - name: facebook
-    icon: "ti-facebook"
-    link: "#"
-
-  - name: twitter
-    icon: "ti-twitter-alt"
+  - name: instagram
+    icon: "ti-instagram"
     link: "#"
 
   - name: linkedin
     icon: "ti-linkedin"
-    link: "#"
-
-  - name: pinterest
-    icon: "ti-pinterest"
-    link: "#"
+    link: "https://www.linkedin.com/company/dareplanet-corp/"
 
 # Build settings
 permalink: "/:title"
