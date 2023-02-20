@@ -13,15 +13,15 @@ hero_area:
 ########################### Service ##############################
 services:
 - title : "3D"
-  icon : "ti-ruler-pencil"
+  icon : "ti-move"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 - title : "VFX"
-  icon : "ti-announcement"
+  icon : "ti-video-clapper"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 - title : "Realidad Virtual"
-  icon : "ti-palette"
+  icon : "ti-eye"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 
