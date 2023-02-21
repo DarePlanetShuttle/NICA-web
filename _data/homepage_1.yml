@@ -14,15 +14,15 @@ hero_area:
 services:
 - title : "VFX"
   icon : "ti-video-clapper"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Objetos o personas 3D generados con alta calidad para su uso en producciones audiovisuales como cine, series y televisión."
 
 - title : "Realidad Virtual"
   icon : "ti-eye"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Objetos o personas 3D de alta calidad para proyectos de realidad virtual, realidad aumentad y realidad mixta."
 
 - title : "Videojuegos"
   icon : "ti-game"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+  content : "Objetos o personas 3D para uso en videojuegos de alta calidad grafica y que posteriormente se pueden animar."
 
 ################## About ###########################
 about:
@@ -35,7 +35,7 @@ about:
   button:
     enable : true
     label : "Contacto"
-    link : "#"
+    link : "#contact"
 
 ######################### Testimonail ####################
 testimonial:
