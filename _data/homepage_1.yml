@@ -29,7 +29,7 @@ about:
   enable : true
   subtitle : "Sobre NICA"
   title : "Neural Image Capture Algorithm"
-  video_thumb : "/assets/images/about/about.jpg"
+  video_thumb : "/assets/images/about/3d-scanner.jpg"
   #video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
   content : "El objetivo tecnológico del proyecto es acometer la investigación y desarrollo de un sistema  de  captura  neuronal  de  imágenes  volumétricas  mediante  técnicas  de aprendizaje profundo en  inteligencia artificial  (IA)  como  componentecentral  de  una nueva  tecnología  que  permita dar  el siguiente  paso en  el desarrollo de contenido  y experiencias   digitales   3D   y   4D   (p.ej.   realidad   virtual,   realidad   aumentada, cinematografía,  videojuegos)  al  dotar  al  sector  audiovisual de un nuevo  formato de narrativa, que de soporte a experiencias totalmente inmersivas."
   button:
