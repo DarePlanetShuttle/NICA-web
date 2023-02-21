@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Neural Image Capture Algorithm"
   title : "NICA"
-  content : "Neural Image Capture Algorithm"
+  content : "El software de inteligencia artificial para la generacion de elementos 3D como nunca antes habias visto"
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : false
