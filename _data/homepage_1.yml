@@ -46,14 +46,14 @@ testimonial:
   - name : "Dare Planet Technology"
     designation : "Consultoria IT"
     image : "/assets/images/logos/dpt-b.png"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    content : "Ayudamos a los departamentos IT a convertirse en elementos estratégicos de su negocio."
     
   - name : "Dare Planet Studio"
     designation : "VFX / Postproduccion"
     image : "/assets/images/logos/dps-b.png"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    content : "VFX y animación a través de innovación, añadiendo valor de producción a los proyectos."
     
   - name : "Dare Planet Shuttle"
     designation : "Innovación disruptiva"
     image : "/assets/images/logo-b.png"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    content : "Innovación en tecnologías blockchain, inteligencia artificial, metaverso y mucho más."
