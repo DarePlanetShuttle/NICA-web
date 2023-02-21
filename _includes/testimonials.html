@@ -1,6 +1,7 @@
 <!-- Testimonial Start -->
-{% assign testimonial = site.data.homepage_2.testimonial %}
+{% assign testimonial = site.data.homepage_1.testimonial %}
 {% if testimonial.enable %}
+<a name="aboutus"></a>
 <section class="section testimonial position-relative">
 	<div class="h60 bg-testimonial"></div>
 	<div class="container">
@@ -19,11 +20,10 @@
 				<div class="card text-center rounded-0 shadow mb-4">
 					<div class="img-block position-relative mb-4">
 						<img src="{{ item.image | relative_url }}" alt="" class="img-fluid">
-						<i class="ti-quote-right"></i>
-					</div>
-					{{item.content| markdownify}}
+					</div>					
 					<h5 class="mb-0 mt-2">{{ item.name }}</h5>
-					<span class="text-color">{{ item.designation }}</span>
+					<span class="mb-2 text-color">{{ item.designation }}</span>
+					{{item.content| markdownify}}
 				</div>
 			</div>
 			{% endfor %}

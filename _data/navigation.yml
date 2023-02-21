@@ -12,7 +12,7 @@ main:
     #   - name: Home 4
     #     url: /index-4.html
   - name: Sobre NICA
-    url: "#"
+    url: "/#about"
     # submenu:
     #   - name: About
     #     url: /about.html
@@ -20,8 +20,8 @@ main:
     #     url: /about-me.html
   # - name: Blog
   #   url: /blog-1.html
-  - name: Dare Planet
-    url: "#"
+  - name: Quienes somos
+    url: "#aboutus"
     # submenu:
     #   - name: Services
     #     url: /services.html
@@ -32,7 +32,7 @@ main:
     #   - name: 404
     #     url: /404
   - name: Contacto
-    url: "#"
+    url: "#contact"
 
 ########## footer menu ###############
 footer:

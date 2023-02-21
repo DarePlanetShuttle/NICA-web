@@ -1,6 +1,7 @@
 <!-- About Start -->
 {% assign about = site.data.homepage_1.about %}
 {% if about.enable %}
+<a name="about"></a>
 <section class="section about overflow-hidden">
 	<div class="container">
 		<div class="row">
@@ -18,6 +19,7 @@
 				<span class="text-color h5 text-uppercase">{{about.subtitle}}</span>
 				<h3 class="mb-4 mt-3">{{ about.title }}</h3>
 				{{ about.content | markdownify }}
+				<br/>
 				{% if about.button.enable %}
 				<a href="{{ about.button.link | relative_url }}" class="btn btn-primary">{{about.button.label}}</a>
 				{% endif %}

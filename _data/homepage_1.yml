@@ -12,16 +12,16 @@ hero_area:
 
 ########################### Service ##############################
 services:
-- title : "3D"
-  icon : "ti-move"
-  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
-
 - title : "VFX"
   icon : "ti-video-clapper"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 - title : "Realidad Virtual"
   icon : "ti-eye"
+  content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+
+- title : "Videojuegos"
+  icon : "ti-game"
   content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
 
 ################## About ###########################
@@ -37,11 +37,23 @@ about:
     label : "Contacto"
     link : "#"
 
-###################### Clients ######################
-clients:
+######################### Testimonail ####################
+testimonial:
   enable : true
-  logos:
-    - "/assets/images/logo.png"
-    - "/assets/images/logo.png"
-    - "/assets/images/logo.png"
-    - "/assets/images/logo.png"
+  subtitle : "Somos"
+  title : "Dare Planet Corp"
+  item:
+  - name : "Dare Planet Technology"
+    designation : "Consultoria IT"
+    image : "/assets/images/logos/dpt-b.png"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Dare Planet Studio"
+    designation : "VFX / Postproduccion"
+    image : "/assets/images/logos/dps-b.png"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+    
+  - name : "Dare Planet Shuttle"
+    designation : "Innovación disruptiva"
+    image : "/assets/images/logo-b.png"
+    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
