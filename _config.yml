@@ -1,5 +1,5 @@
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://nica.dareplanet.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "NICA - Dare Planet Shuttle"
 email: ""
 phone: "(+34) 91 391 4249"
