@@ -12,29 +12,29 @@
 				<br/>
 				<h3 class="mb-5 mt-2">Contacta ahora con nosotros sin compromiso:</h3>
 
-				<form action="{{site.contact_form_action}}" class="home-contact-form">
+				<form action="{{site.contact_form_action}}" class="home-contact-form" data-netlify="true">
 					<div class="form-row">
 						<div class="col-lg-12">
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Nombre y apellidos *">
+								<input type="text" name="name" class="form-control" placeholder="Nombre y apellidos *">
 							</div>
 						</div>
 					</div>
 					<div class="form-row">
 						<div class="col-lg-6">
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Email *">
+								<input type="text" name="email" class="form-control" placeholder="Email *">
 							</div>
 						</div>
 						<div class="col-lg-6">
 							<div class="form-group">
-								<input type="text" class="form-control" placeholder="Teléfono *">
+								<input type="text" name="phone" class="form-control" placeholder="Teléfono *">
 							</div>
 						</div>
 					</div>
 					<div class="row">
 						<div class="col-lg-12">
-							<textarea name="msg" id="msg" cols="30" rows="4" class="form-control mb-4" placeholder="Mensaje *"></textarea>
+							<textarea name="message" id="message" cols="30" rows="4" class="form-control mb-4" placeholder="Mensaje *"></textarea>
 							<button type="submit" class="btn btn-primary">Enviar</button>
 						</div>
 					</div>
