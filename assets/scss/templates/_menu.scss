@@ -1,5 +1,5 @@
 #main-nav {
-  height: 100px;
+  /*height: 100px;*/
 
   .navbar-nav .nav-link {
     text-transform: uppercase;
@@ -23,6 +23,10 @@
   color: $white;
   font-weight: 500;
   font-family: $heading-font;
+}
+
+.navbar i{
+  font-size:24px;
 }
 
 .nav-top {
