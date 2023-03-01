@@ -3,7 +3,7 @@ hero_area:
   background_image : "/assets/images/bg/banner-2.png"
   subtitle: "Neural Image Capture Algorithm"
   title : "NICA"
-  content : "El software de inteligencia artificial para la generacion de elementos 3D como nunca antes habias visto"
+  content : "El software de inteligencia artificial para la generación de elementos 3D como nunca antes habías visto"
   image : "/assets/images/banner/banner-img-2.png"
   button:
     enable : false
@@ -18,11 +18,11 @@ services:
 
 - title : "Realidad Virtual"
   icon : "ti-eye"
-  content : "Objetos o personas 3D de alta calidad para proyectos de realidad virtual, realidad aumentad y realidad mixta."
+  content : "Objetos o personas 3D de alta calidad para proyectos de realidad virtual, realidad aumentada y realidad mixta."
 
 - title : "Videojuegos"
   icon : "ti-game"
-  content : "Objetos o personas 3D para uso en videojuegos de alta calidad grafica y que posteriormente se pueden animar."
+  content : "Objetos o personas 3D para uso en videojuegos de alta calidad gráfica y que posteriormente se pueden animar."
 
 ################## About ###########################
 about:
@@ -31,7 +31,7 @@ about:
   title : "Neural Image Capture Algorithm"
   video_thumb : "/assets/images/about/3d-scanner.jpg"
   #video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content : "El objetivo tecnológico del proyecto es acometer la investigación y desarrollo de un sistema de captura neuronal de imágenes volumétricas mediante  técnicas de aprendizaje profundo en inteligencia artificial (IA) como componente central de una nueva tecnología que permita dar el siguiente paso en el desarrollo de contenido y experiencias digitales 3D y 4D (p.ej. realidad virtual, realidad aumentada, cinematografía, videojuegos) al dotar al sector audiovisual de un nuevo formato de narrativa, que de soporte a experiencias totalmente inmersivas."
+  content : "El objetivo tecnológico del proyecto es acometer la investigación y desarrollo de un sistema de captura neuronal de imágenes volumétricas mediante  técnicas de aprendizaje profundo en inteligencia artificial (IA) como componente central de una nueva tecnología que permita dar el siguiente paso en el desarrollo de contenido y experiencias digitales 3D y 4D (p.ej. realidad virtual, realidad aumentada, cinematografía, videojuegos) al dotar al sector audiovisual de un nuevo formato de narrativa, que dé soporte a experiencias totalmente inmersivas."
   button:
     enable : true
     label : "Contacto"
@@ -44,12 +44,12 @@ testimonial:
   title : "Dare Planet Corp"
   item:
   - name : "Dare Planet Technology"
-    designation : "Consultoria IT"
+    designation : "Consultoría IT"
     image : "/assets/images/logos/dpt-b.png"
     content : "Ayudamos a los departamentos IT a convertirse en elementos estratégicos de su negocio."
     
   - name : "Dare Planet Studio"
-    designation : "VFX / Postproduccion"
+    designation : "VFX / Postproducción"
     image : "/assets/images/logos/dps-b.png"
     content : "VFX y animación a través de innovación, añadiendo valor de producción a los proyectos."
     
