@@ -21,7 +21,7 @@
 
 
   // clients slider
-  $('.clients-wrap').slick({
+  /*$('.clients-wrap').slick({
     slidesToShow: 5,
     slidesToScroll: 5,
     infinite: true,
@@ -124,7 +124,7 @@
         $(this).addClass('animate-in');
       });
     });
-  });
+  });*/
 
 
 
