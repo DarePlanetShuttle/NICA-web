@@ -1,7 +1,7 @@
 <!-- Slider Start -->
 {% assign banner = site.data.homepage_1.hero_area %}
 <section class="banner-2 position-relative bg-blue">
-	<img src="{{ banner.background_image | relative_url }}" alt="Artificial Intelligence logo with AI letters" class="overlay-shape">
+	<img src="{{ banner.background_image | relative_url }}" alt="Purple background texture" class="overlay-shape">
 	<div class="container">
 		<div class="row align-items-center">
 			<div class="col-lg-6 col-md-7">
@@ -16,7 +16,7 @@
 			</div>
 
 			<div class="col-lg-6 col-md-5 align-self-end">
-				<img src="{{ banner.image | relative_url }}" alt="" class="img-fluid position-absolute-">
+				<img src="{{ banner.image | relative_url }}" alt="{{ banner.image_alt | relative_url }}" class="img-fluid position-absolute-">
 			</div>
 		</div>
 	</div>

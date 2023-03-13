@@ -5,6 +5,7 @@ hero_area:
   title : "NICA"
   content : "El software de inteligencia artificial para la generación de elementos 3D como nunca antes habías visto"
   image : "/assets/images/banner/banner-img-2.png"
+  image_alt: "Artificial Intelligence logo with AI letters"
   button:
     enable : false
     label : "contact me"
