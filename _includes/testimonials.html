@@ -24,6 +24,7 @@
 					<h5 class="mb-0 mt-2">{{ item.name }}</h5>
 					<span class="mb-2 text-color">{{ item.designation }}</span>
 					{{item.content| markdownify}}
+					<a href="{{ item.url }}" class="btn btn-primary">Descubre más</a>
 				</div>
 			</div>
 			{% endfor %}

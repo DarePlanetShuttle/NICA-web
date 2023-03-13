@@ -48,15 +48,18 @@ testimonial:
     image : "/assets/images/logos/dpt-b.png"
     content : "Ayudamos a los departamentos IT a convertirse en elementos estratégicos de su negocio."
     alt: "Logo Dare Planet Technology"
+    url: "https://dareplanet.tech"
     
   - name : "Dare Planet Studio"
     designation : "VFX / Postproducción"
     image : "/assets/images/logos/dps-b.png"
     content : "VFX y animación a través de innovación, añadiendo valor de producción a los proyectos."
     alt: "Logo Dare Planet Studio"
+    url: "https://dps.tv"
     
   - name : "Dare Planet Shuttle"
     designation : "Innovación disruptiva"
     image : "/assets/images/logo-b.png"
     content : "Innovación en tecnologías blockchain, inteligencia artificial, metaverso y mucho más."
     alt: "Logo Dare Planet Shuttle"
+    url: "https://shuttle.dareplanet.com"

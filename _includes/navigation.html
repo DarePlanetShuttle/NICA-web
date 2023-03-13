@@ -25,4 +25,19 @@
     {% endif %}
   </li>
   {% endfor %}
+
+  <div style="display:none">
+  {% if page.url contains '/es' %}
+  <li class="nav-item">
+    <a class="nav-link" href="/">EN</a>
+  </li>
+  {% else %}
+  <li class="nav-item">
+    <a class="nav-link" href="/es">ES
+    </a>
+  </li>
+  {% endif %}
+  </div>
+  
+
 </ul>
