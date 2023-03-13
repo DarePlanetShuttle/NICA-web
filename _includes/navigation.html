@@ -3,13 +3,13 @@
   {% assign active = nil %}
 
   {% for sublink in link.submenu %}
-  {% if page.url contains sublink.url %}
-  {% assign active = 'active' %}
-  {% endif %}
+    {% if page.url contains sublink.url %}
+      {% assign active = 'active' %}
+    {% endif %}
   {% endfor %}
 
   {% if page.url contains link.url %}
-  {% assign active = 'active' %}
+    {% assign active = 'active' %}
   {% endif %}
 
   <li class="nav-item {% if link.submenu %} dropdown {% endif %}">
